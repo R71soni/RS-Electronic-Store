@@ -1,7 +1,9 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
-const API_URL = "https://rs-electronic-store.onrender.com";
+// Use Vite environment variable for API URL in production, fallback to
+// relative path so the frontend can call same-origin `/api/*` when proxied.
+const API_URL = import.meta.env.VITE_API_URL || "";
 
 const Signup = () => {
   const navigate = useNavigate();
