@@ -117,7 +117,7 @@ const Footer = () => {
         </div>
 
         <div className="text-center border-t border-gray-700 mt-8 pt-6 text-gray-500 text-sm">
-          © 2026 <span className="text-orange-400 font-semibold">RS Electronics</span>. Designed & Developed by <span className="text-white">Rakesh Singh Bhandari</span>.
+          © 2026 <span className="text-orange-400 font-semibold">RS Electronics</span>. Designed & Developed by <span className="text-white">Ritesh & Rakesh Singh Bhandari</span>.
         </div>
 
       </div>
