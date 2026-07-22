@@ -488,7 +488,7 @@ const Navbar = () => {
                 to="/signup"
                 className="rounded-lg bg-blue-600 px-5 py-2 text-white hover:bg-blue-700"
               >
-                djehgdjewgdjwehUp
+              jjjjjjjjjj
               </Link>
 
             </div>
