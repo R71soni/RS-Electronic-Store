@@ -464,7 +464,7 @@ const Navbar = () => {
                     onClick={handleLogout}
                     className="w-full rounded-lg bg-red-600 px-4 py-2 text-white hover:bg-red-700"
                   >
-                    Logout
+                    rakesh
                   </button>
 
                 </div>
@@ -488,7 +488,7 @@ const Navbar = () => {
                 to="/signup"
                 className="rounded-lg bg-blue-600 px-5 py-2 text-white hover:bg-blue-700"
               >
-                Sign Up
+              jjjjjjjjjj
               </Link>
 
             </div>
