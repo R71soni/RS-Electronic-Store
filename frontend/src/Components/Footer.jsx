@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Logo */}
           <div>
             <h2 className="text-3xl font-bold text-blue-400">
-          yyyygsyasgysgwy Electronic
+          MMMMMMMMMMMMMMMMMMMMMMMMM Electronic
             </h2>
 
             <p className="mt-4 text-gray-400">
